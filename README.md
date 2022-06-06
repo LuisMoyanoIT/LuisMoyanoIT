@@ -1,7 +1,7 @@
 <h1 align="center">console.warn(`Hi there, i am ${Luis Moyano}`);</h1>
 <h3 align="center">A software developer</h3>
 
-![Alt Text](https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif)
+
 <img align="center" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismoyanoit&label=Profile%20views&color=0e75b6&style=flat" alt="luismoyanoit" /> </p>
