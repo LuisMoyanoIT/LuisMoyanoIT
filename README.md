@@ -2,7 +2,7 @@
 <h3 align="center">A software developer</h3>
 
 
-<img align="center" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif"  />
+<img style="margin-left:200px" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismoyanoit&label=Profile%20views&color=0e75b6&style=flat" alt="luismoyanoit" /> </p>
 
